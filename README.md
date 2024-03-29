@@ -44,3 +44,6 @@ python tetris.py
 ## Credits
 - Pygame: A cross-platform set of Python modules designed for writing video games. [Pygame Website](https://www.pygame.org/)
 - Tetris concept originally created by Alexey Pajitnov.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
