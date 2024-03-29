@@ -16,11 +16,16 @@ To run the game, you'll need Python installed on your system along with the Pyga
 
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
-3. Install Pygame by running the following command: ``pip install pygame``
+3. Install Pygame by running the following command: 
+```bash
+pip install pygame
+```
 
 ## How to Play
 1. Run the `tetris.py` file.
-    ``python tetris.py``
+```bash
+python tetris.py
+```
 2. Use the arrow keys to move the falling blocks left, right, or down.
 3. Use the `Up` arrow key to rotate the falling block.
 4. The objective is to complete horizontal lines without any gaps. When a line is completed, it will disappear, and the player earns points.
